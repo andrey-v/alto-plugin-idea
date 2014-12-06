@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<id>idea</id>
+    <name>
+        <lang name="default">Idea</lang>
+        <lang name="russian">Idea</lang>
+    </name>
+    <author>
+        <lang name="default">author</lang>
+        <lang name="russian">автор</lang>
+    </author>
+    <homepage>http://livestreet.ru</homepage>
+    <version>1.0.0</version>
+    <dirname>idea</dirname>
+    <requires>
+        <alto>
+             <version>1.0.0</version>
+        </alto>
+		<system>
+            <php>5.3.0</php>
+        </system>
+    </requires>
+    <description>
+        <lang name="default">Description of plugin Idea</lang>
+        <lang name="russian">Описание плагина Idea</lang>
+    </description>
+</plugin>
